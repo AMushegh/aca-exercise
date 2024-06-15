@@ -1,0 +1,9 @@
+Instructions
+
+1. Create a Public Repository on GitHub
+
+2. Follow the "Design a Web Page for an Aquarium Company.pdf" (except the last point).
+
+3. Push Changes
+
+4. Send me URL of the repo with slack.
